@@ -1,4 +1,4 @@
-# DH-401: EPFL Digital Humanities - Digital Musicology semester project
+# DH-401: Digital Musicology semester project
 
 ## Predicting music popularity using DNNs
 
