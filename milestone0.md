@@ -14,8 +14,6 @@ The project consists of two different, comparable approaches to perform the same
 
 Previous HSS works have highlighted different musical features influencing music's popularity, defining parameters on which we will focus during our study in addition to data-driven outcomes. Music's pitch ([Jakubowski et al., 2017](#jakubowski); [Yang et. al, 2017](#yang); [Lee & Lee, 2018](#lee)), tempo ([Ni et al., 2011](#ni); [Jakubowski et al., 2017](#jakubowski); [Léveillé Gauvin, 2017](#gauvin)) and intrinsic loudness ([Ni et al., 2011](#ni); [Serra et al., 2012](#serra); [Gauvin, 2017](#gauvin); [Lee & Lee, 2018](#lee)) appear as recurrent features to discriminate hit songs from non-hits.
 
-TODO: add a note on the ML horse thing of Sturm ??
-
 ### Data
 
 Creating an end-to-end deep learning model requires a vast amount of data for training and evaluation. For this reason we want to use the music dataset build by [M. Defferrard, K. Benzi, P. Vandergheynst and X. Bresson (2017)](#fma). The data is publicly available here: [fma](https://github.com/mdeff/fma). There are two datasets that could be used: a small one containing 8 genres, and a larger one with 22 genres.
