@@ -8,7 +8,7 @@
 
 ## Milestone 2
 
-Exploratory data analysis notebook is available [here](https://github.com/Glorf/DH-401/blob/main/milestone2.ipynb)
+Exploratory data analysis notebook is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone2.ipynb)
 
 ## Milestone 1
 
