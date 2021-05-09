@@ -6,6 +6,12 @@
 * Michał (michal.bien@epfl.ch)
 * Noé (noe.durandard@epfl.ch)
 
+## Milestone 3
+
+Main notebook presenting out results is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone3.ipynb)
+
+Notebook describing the details of Wav2Vec2.0 pre-training and fine-tuning for the task is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone3-wav2vec2.ipynb)
+
 ## Milestone 2
 
 Exploratory data analysis notebook is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone2.ipynb)
