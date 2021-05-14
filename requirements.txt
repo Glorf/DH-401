@@ -1,0 +1,16 @@
+tqdm
+librosa
+seaborn
+pandas==1.1.2
+statsmodels
+sklearn
+numpy
+scipy==1.4.1
+matplotlib
+torch==1.8.1
+git+https://github.com/huggingface/transformers.git#86d5fb0b360e68de46d40265e7c707fe68c8015b
+git+https://github.com/CPJKU/audioLIME.git#212373112e3632485d6c987e8178ebf2f9c3f49a
+spleeter==2.0.2
+soundfile
+IPython
+torchaudio==0.8.1
