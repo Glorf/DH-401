@@ -1,4 +1,5 @@
 tqdm
+pqdm
 librosa
 seaborn
 pandas==1.1.2
