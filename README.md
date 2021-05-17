@@ -12,6 +12,8 @@ Main notebook presenting out results is available [here](https://nbviewer.jupyte
 
 Notebook describing the details of Wav2Vec2.0 pre-training and fine-tuning for the task is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone3-wav2vec2.ipynb)
 
+Notebook describing the details of feature clustering for the task is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone3_feature_clustering.ipynb)
+
 ## Milestone 2
 
 Exploratory data analysis notebook is available [here](https://nbviewer.jupyter.org/github/Glorf/DH-401/blob/main/milestone2.ipynb)
